@@ -7,8 +7,8 @@
 }
 body {
   background: #DADADA;
-	font-family: "Fixedsys Excelsior 3.01";
-	margin: 0;
+  font-family: "Fixedsys Excelsior 3.01";
+  margin: 0;
   padding: 0;
   line-height: 25px;
 }
@@ -28,32 +28,32 @@ body a:hover{
   padding: 0 3px 0 3px;
 }
 .center {
-	margin: 6.5em auto 2.5em auto;
+  margin: 6.5em auto 2.5em auto;
   padding: 0.5em 1.5em;
   max-width: 50vw;
 }
 h2 {
   color: teal;  
-	margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 .computer {
-	width: 75px;
-	height: 75px;
-	padding-right: 5px;
-	position: relative;
-	right: 7px;
-	float: left;
-	top: 14px;
+  width: 75px;
+  height: 75px;
+  padding-right: 5px;
+  position: relative;
+  right: 7px;
+  float: left;
+  top: 14px;
 }
 li {
-	padding: 3px;
-	margin-bottom: 5px;
+  padding: 3px;
+  margin-bottom: 5px;
 }
 li a:nth-of-type(2) {
   color: red;
 }
 br {
-	margin-bottom: 9px;
+  margin-bottom: 9px;
 }
 @media only screen and (max-width: 768px) {
   body {
