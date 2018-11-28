@@ -6,14 +6,14 @@
   font-style: normal;
 }
 body {
-  background: #DADADA;
+  background: #E8E6CB;
   font-family: "Fixedsys Excelsior 3.01";
   margin: 0;
   padding: 0;
   line-height: 25px;
 }
 body a {
-  color: blue;
+  color: #897C00;
   text-decoration: none;
 }
 body a:hover{
@@ -33,7 +33,7 @@ body a:hover{
   max-width: 50vw;
 }
 h2 {
-  color: teal;  
+  color: #425643;  
   margin-bottom: 15px;
 }
 .computer {
@@ -50,7 +50,7 @@ li {
   margin-bottom: 5px;
 }
 li a:nth-of-type(2) {
-  color: red;
+  color: #425643;
 }
 br {
   margin-bottom: 9px;
