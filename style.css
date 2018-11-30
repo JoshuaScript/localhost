@@ -1,13 +1,7 @@
-@font-face {
-  font-family: 'Fixedsys Excelsior 3.01';
-  src: url("./fonts/FixedsysExcelsiorIIIb.woff2") format("woff2"),
-      url("./fonts/FixedsysExcelsiorIIIb.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
 body {
   background: #E8E6CB;
-  font-family: "Fixedsys Excelsior 3.01";
+  font-family: hack;
+  font-size: 13.7px;
   margin: 0;
   padding: 0;
   line-height: 25px;
@@ -46,6 +40,7 @@ h2 {
   top: 14px;
 }
 li {
+  list-style-type: "○ ";
   padding: 3px;
   margin-bottom: 5px;
 }
