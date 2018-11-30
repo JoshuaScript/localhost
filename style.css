@@ -2,7 +2,7 @@
 body {
   background: #E8E6CB;
   font-family: hack;
-  font-size: 13.7px;
+  font-size: 13.7 px;
   margin: 0;
   padding: 0;
   line-height: 25px;
@@ -27,7 +27,7 @@ body a:hover{
   padding: 0.5em 1.5em;
   max-width: 50vw;
 }
-h2 {
+h2, h3 {
   color: #425643;  
   margin-bottom: 15px;
 }
