@@ -2,7 +2,7 @@
 body {
   background: #E8E6CB;
   font-family: hack;
-  font-size: 13px;
+  font-size: 13.8px !important;
   margin: 0;
   padding: 0;
   line-height: 25px;
