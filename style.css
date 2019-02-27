@@ -1,15 +1,15 @@
-@import url("https://use.typekit.net/hwi5gbk.css");
+@import './font/font-face.css';
 body {
-  background: #E8E6CB;
-  font-family: hack;
-  font-size: 13.8px;
+  background: #DADADA;
+  font-family: 'Nouveau IBM';
   margin: 0;
   padding: 0;
   line-height: 25px;
 }
 body a {
-  color: #897C00;
+  color: blue;
   text-decoration: none;
+  font-size: 16.5px;
 }
 body a:hover{
   text-decoration: underline;
@@ -27,8 +27,8 @@ body a:hover{
   padding: 0.5em 1.5em;
   max-width: 50vw;
 }
-h2, h3 {
-  color: #425643;  
+h2 {
+  color: teal;  
   margin-bottom: 15px;
 }
 .computer {
@@ -41,19 +41,18 @@ h2, h3 {
   top: 14px;
 }
 li {
-  list-style-type: "○ ";
   padding: 3px;
   margin-bottom: 5px;
 }
 li a:nth-of-type(2) {
-  color: #425643;
+  color: red;
 }
 br {
   margin-bottom: 9px;
 }
 @media only screen and (max-width: 768px) {
   body {
-    font-size: 12px;
+    font-size: 14px;
   }
   .center {
     margin: 0;

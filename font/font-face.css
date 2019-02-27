@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nouveau IBM';
+    src: url('Nouveau_IBM.woff2') format('woff2'),
+        url('Nouveau_IBM.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
