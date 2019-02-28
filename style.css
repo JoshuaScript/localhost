@@ -51,7 +51,7 @@ br {
   margin-bottom: 9px;
 }
 @media only screen and (max-width: 768px) {
-  body {
+  body, body a {
     font-size: 14px;
   }
   .center {
