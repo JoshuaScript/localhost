@@ -7,7 +7,7 @@ body {
   line-height: 25px;
 }
 body a {
-  color: #3938CE;
+  color: blue;
   text-decoration: none;
   font-size: 16.5px;
 }
