@@ -54,6 +54,7 @@ li {
   padding: 3px;
   margin-bottom: 5px;
 }
+
 li a:nth-of-type(2) {
   color: red;
 }
